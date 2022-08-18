@@ -97,7 +97,7 @@ body {
     width: 33%;
     height: 250px;
     margin-right: 20px;
-    padding-left: 5%;
+    padding-left: 1%;
 }
 
 #bm {
@@ -106,7 +106,7 @@ body {
     width: 33%;
     height: 250px;
     margin-right: 20px;
-    padding-left: 5%;
+    padding-left: 1%;
 }
 
 #bz {
@@ -114,7 +114,7 @@ body {
     text-align: left;
     width: 33%;
     height: 250px;
-    padding-left: 5%;
+    padding-left: 1%;
 }
 
 .ez {
@@ -213,4 +213,16 @@ body {
     border: none;
     background-color: brown;
     border-radius: 5px;
+}
+
+#tr {
+    margin-top: 10px;
+}
+
+#ts {
+    margin-top: 10px;
+}
+
+#tn {
+    margin-top: 10px;
 }
